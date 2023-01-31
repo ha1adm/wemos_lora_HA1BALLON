@@ -1,3 +1,3 @@
 #pragma once
 const char* mySSID = "SSID";
-const char* myPASSWORD = "password";
+const char* myPASSWORD = "passwordd";
